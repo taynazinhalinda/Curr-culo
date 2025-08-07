@@ -1,0 +1,48 @@
+{
+    "tayna": {
+        "informações": {
+            "nome": "Tayná Araújo Bispo",
+            "foto": "foto 3x4.jpg",
+            "dataNascimento": "15/09/2005",
+            "email": "taynaaraujobispo@gmail.com",
+            "telefone": "(11) 95031-1528",
+            "linkedin": "https://www.linkedin.com/in/tayná-araújo-bispo-593892349",
+            "github": "https://github.com/taynazinhalinda"
+        },
+        
+        "conhecimentos": [
+            "Java",
+            "HTML",
+            "JavaScript",
+            "Administração"
+        ],
+        "experiencias": [
+            {
+                "cargo": "Especialista Relacionamento Cliente I",
+                "empresa": "Atento",
+                "descricao": "Atendimento híbrido na central e suporte técnico, auxiliando clientes por telefone.",
+                "inicio": "2024",
+                "fim": "Atual"
+            },
+            {
+                "cargo": "Jovem Aprendiz em Administração",
+                "empresa": "Coca-Cola Femsa / Espro",
+                "descricao": "Suporte administrativo: tesouraria, atendimento, finanças e logística.",
+                "inicio": "fevereiro de 2024",
+                "fim": "agosto de 2024"
+            }
+        ],
+        "formacoes": [
+            {
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Centro Universitário Senac",
+                "status": "Em andamento - 3/5 semestres"
+            },
+            {
+                "curso": "Técnico em Administração (Ensino Médio Integrado)",
+                "instituicao": "Etec Irmã Agostina",
+                "status": "Concluído (2023)"
+            }
+        ]
+    }
+}
